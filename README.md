@@ -12,6 +12,9 @@ classDiagram
         -int year
         -String fuel
         -int places
+        -Engine engine
+        -Streaming streaming
+        -Consumption[] consumption
     }
     
     class Engine {
