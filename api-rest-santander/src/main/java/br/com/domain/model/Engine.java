@@ -1,4 +1,4 @@
-package br.com.model;
+package br.com.domain.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -6,7 +6,7 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 
 @Entity
-public class Streaming {
+public class Engine {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)

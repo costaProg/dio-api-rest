@@ -1,4 +1,4 @@
-package br.com.model;
+package br.com.domain.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -6,7 +6,7 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 
 @Entity
-public class Engine {
+public class Streaming {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -14,14 +14,6 @@ public class Engine {
     private String traction;
     private String exchangeCode;
     private String exchange;
-
-    public Long getId() {
-        return id;
-    }
-
-    public void setId(Long id) {
-        this.id = id;
-    }
 
     public String getTraction() {
         return traction;
@@ -46,4 +38,5 @@ public class Engine {
     public void setExchange(String exchange) {
         this.exchange = exchange;
     }
+
 }
