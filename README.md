@@ -1,8 +1,6 @@
 # Santander 2024 - Backend com java
 Java RESTful criada para o Bootcamp da Santander na DIO
 
-
-Deixe a seguinte frase mais chamativa, pode incluir novas idéias e corrigir sua gramática:
 ## Principais Tecnologias 
 - **Java 17:** Desfrute de desempenho otimizado, escalabilidade incomparável e segurança reforçada ao utilizar a versão mais recente da linguagem Java, a escolha ideal para desenvolvedores exigentes;
 - **Spring Boot 3:** Desfrute de desenvolvimento mais rápido e eficiente com a poderosa autoconfiguração do Spring Boot, liberando tempo para você se concentrar no que realmente importa **construir soluções inovadoras**;
