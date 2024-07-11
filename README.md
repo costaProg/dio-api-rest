@@ -1,11 +1,13 @@
 # Santander 2024 - Backend com java
-Java RESTful criada para o bootcamp da santander
+Java RESTful criada para o Bootcamp da Santander na DIO
 
+
+Deixe a seguinte frase mais chamativa, pode incluir novas idéias e corrigir sua gramática:
 ## Principais Tecnologias 
-- **Java 17:** Utilizaremos a versão LTS mais recente do Java para aproveitar as últimas inovações que essa robusta e amplamente utilizada linguagem oferece;
-- **Spring Boot 3:** Trabalharemos com a versão mais recente do Spring Boot, que maximiza a produtividade do desenvolvedor através de sua poderosa premissa de autoconfiguração;
-- **Spring Data JPA:** Exploraremos como essa ferramenta pode simplificar nossa camada de acesso a dados, facilitando a integração com bancos de dados SQL;
-- **OpenAPI (Swagger):** Vamos criar uma documentação de API eficaz e fácil de entender usando a OpenAPI (Swagger), perfeitamente alinhada com a alta produtividade que o Spring Boot oferece;
+- **Java 17:** Desfrute de desempenho otimizado, escalabilidade incomparável e segurança reforçada ao utilizar a versão mais recente da linguagem Java, a escolha ideal para desenvolvedores exigentes;
+- **Spring Boot 3:** Desfrute de desenvolvimento mais rápido e eficiente com a poderosa autoconfiguração do Spring Boot, liberando tempo para você se concentrar no que realmente importa **construir soluções inovadoras**;
+- **Spring Data JPA:** Torne a integração com bancos de dados SQL mais rápida e fácil do que nunca com essa ferramenta inovadora, impulsionando sua produtividade e otimizando seu tempo;
+- **OpenAPI (Swagger):** Crie documentações ricas em informações e valiosas que deliciam seus usuários e garantem que eles tirem o máximo proveito da sua API com OpenAPI e Spring Boot;
 - **Railway:** facilita o deploy e monitoramento de nossas soluções na nuvem, além de oferecer diversos bancos de dados como serviço e pipelines de CI/CD.
 
 ## Diagrama de classes
@@ -49,7 +51,7 @@ classDiagram
 ## Documentação da API (Swagger)
 - [Documentação Swagger](https://dio-api-rest-production.up.railway.app/swagger-ui/index.html#/)
 
-Esta API estará disponível no Railway por um tempo limitado. No entanto, o código-fonte é aberto, então sinta-se livre para cloná-lo, modificá-lo e utilizá-lo como base para novos projetos. Execute-o localmente ou na plataforma de sua preferência!
+API gratuita por tempo limitado no Railway. Código-fonte aberto para colaboração e inovação.
 
 ## 🔍 Referências
 - [Digital Innovation One](https://github.com/digitalinnovationone)
